@@ -1,2 +1,2 @@
 # ED
-Estructura de Datos
+Prácticas de la asignatura Estructura de Datos en C++.
